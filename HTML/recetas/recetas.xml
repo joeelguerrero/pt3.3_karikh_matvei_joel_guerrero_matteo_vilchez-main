@@ -1,0 +1,1138 @@
+<recetas>
+<!-- receta 1 -->
+    <receta>
+        <nom>Pizza Margarita</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+        <dificultad>Fácil</dificultad>
+        <cocina>Tradicional</cocina>
+        <Vegetariana>Sí</Vegetariana>
+        <celicos>Sí</celicos>
+        <Tiempo>25 min</Tiempo>
+    </receta>
+<!-- Macarrones con salsa Curry y Galletas de avena -->
+<!-- receta 4 -->
+    <receta>
+        <nom>Matambe a la pizza parrila</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+        <dificultad>Medio</dificultad>
+        <cocina>Moderna</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>No</celicos>
+        <Tiempo>1h 25 min</Tiempo>
+    </receta>
+<!-- receta 5 -->
+    <receta>
+        <nom>Picarones peruanos</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+        <dificultad>Medio</dificultad>
+        <cocina>Moderna</cocina>
+        <Vegetariana>No</Vegetariana>
+        <celicos>No</celicos>
+        <Tiempo>1h 25 min</Tiempo>
+    </receta>
+<!-- receta 6 -->
+    <receta>
+        <nom>Empanadas de salchicha</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 7 -->
+    <receta>
+        <nom>Empanadas de salchicha</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 8 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 9 -->
+    <receta>
+        <nom>Pancakes de avena</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 10 -->
+    <receta>
+        <nom>Bizcocho en freidora de aire</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 11 -->
+    <receta>
+        <nom>Masa para donas</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 12 -->
+    <receta>
+        <nom>Ceviche verde</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 13 -->
+    <receta>
+        <nom>Pastel de Zanahoria</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 14 -->
+    <receta>
+        <nom>Tortas fritas al horno</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 15 -->
+    <receta>
+        <nom>Tarta de Ciruelas</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 16 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 17 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 18 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 19 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 20 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 21 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 22 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 23 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 24 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 25 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 26 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 27 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 28 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 29 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+<!-- receta 30 -->
+    <receta>
+        <nom>Bondiola de cerdo a la cacerola</nom>
+        <ingrdientes>
+            <ingrediente>
+                <quantitat>220 gr.</quantitat>
+                <nom>masa de pizza italiana</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>90 gr.</quantitat>
+                <nom>queso mozzarella</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>2</quantitat>
+                <nom>Hojas de albahaca fresca</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>100 gr.</quantitat>
+                <nom>salsa de tomate natural triturado</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Sal y pimienta negra recién molida</nom>
+            </ingrediente>
+            <ingrediente>
+                <quantitat>(al gusto)</quantitat>
+                <nom>Aceite de oliva virgen extra</nom>
+            </ingrediente>
+        </ingrdientes>
+        <preparacion>
+            <pasos>
+                <paso>Lo primero que hacemos es encender el horno. En mi caso a 250º C durante unos 10 minutos.</paso>
+                <paso>Ponemos un cuenco (apto para horno) con agua, para que tenga algo de humedad cuando vayamos a hornearla.</paso>
+                <paso>Una vez que tenemos la masa de la pizza preparada, ya extendida en papel de horno, preparamos el relleno.</paso>
+                <paso>Untamos con el tomate triturado por toda la superficie de la masa, teniendo cuidado de dejar libre unos 2 cm. por todo el perímetro de la pizza.</paso>
+                <paso>Partimos unas 3-4 hojas de albahaca fresca y las ponemos en la pizza</paso>
+                <paso>También unas gotas de aceite de oliva virgen extra.</paso>
+            </pasos>
+        </preparacion>
+    </receta>
+</recetas>
